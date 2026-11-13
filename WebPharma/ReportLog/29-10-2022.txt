@@ -1,0 +1,4 @@
+29/10/2022 11:08:25::StockDamage.rpt::Thread was being aborted.
+29/10/2022 11:08:30::crptStockVarification.rpt::Thread was being aborted.
+29/10/2022 11:08:48::MinimumQuantity.rpt::Thread was being aborted.
+29/10/2022 11:49:55::StockRegister.rpt::Thread was being aborted.

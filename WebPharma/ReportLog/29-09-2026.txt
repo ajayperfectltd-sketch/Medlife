@@ -1,0 +1,3 @@
+29/09/2026 12:18:00::crptPurchaseRegister.rpt::Thread was being aborted.
+29/09/2026 12:24:35::crptPurchaseRegister.rpt::Thread was being aborted.
+29/09/2026 12:25:03::crptPurchaseRegister.rpt::Thread was being aborted.

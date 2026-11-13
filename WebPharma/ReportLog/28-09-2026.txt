@@ -1,0 +1,6 @@
+28/09/2026 09:56:41::crptPurchaseRegister.rpt::Thread was being aborted.
+28/09/2026 16:38:32::SalesmanLiabilityRegisterPeriodWise.rpt::Thread was being aborted.
+28/09/2026 16:39:00::SalesmanLiabilityRegisterPeriodWise.rpt::Thread was being aborted.
+28/09/2026 16:39:11::SalesmanLiabilityRegisterPeriodWise.rpt::Thread was being aborted.
+28/09/2026 16:39:23::SalesmanLiabilityRegisterPeriodWise.rpt::Thread was being aborted.
+28/09/2026 16:39:33::SalesmanLiabilityRegisterPeriodWise.rpt::Thread was being aborted.

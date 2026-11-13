@@ -1,0 +1,32 @@
+16/09/2022 10:25:47::PurchaseDetailed.rpt::Thread was being aborted.
+16/09/2022 10:34:58::PurchaseDetailed.rpt::Thread was being aborted.
+16/09/2022 12:25:07::StockRegister.rpt::Object reference not set to an instance of an object.
+16/09/2022 12:25:13::Item.rpt::Object reference not set to an instance of an object.
+16/09/2022 12:25:18::StockDamage.rpt::Object reference not set to an instance of an object.
+16/09/2022 12:25:22::crptStockVarification.rpt::Object reference not set to an instance of an object.
+16/09/2022 12:25:30::MinimumQuantity.rpt::Object reference not set to an instance of an object.
+16/09/2022 12:25:36::ExpiryItem.rpt::Object reference not set to an instance of an object.
+16/09/2022 12:25:45::PurchaseDetailed.rpt::Object reference not set to an instance of an object.
+16/09/2022 12:27:09::PurchaseDetailed.rpt::Thread was being aborted.
+16/09/2022 12:27:56::StockRegister.rpt::Thread was being aborted.
+16/09/2022 12:28:23::PurchaseRegisterDetailed.rpt::Thread was being aborted.
+16/09/2022 12:40:04::crptStockVarification.rpt::Thread was being aborted.
+16/09/2022 12:40:09::crptStockVarification.rpt::Thread was being aborted.
+16/09/2022 12:40:13::crptItemWiseStock.rpt::Thread was being aborted.
+16/09/2022 12:40:29::GSTHSN1CodeReport.rpt::Thread was being aborted.
+16/09/2022 12:40:36::SalesmanLiabilityRegister.rpt::Thread was being aborted.
+16/09/2022 12:40:41::StockRegister.rpt::Thread was being aborted.
+16/09/2022 12:40:46::StockRegister.rpt::Thread was being aborted.
+16/09/2022 12:40:51::Item.rpt::Thread was being aborted.
+16/09/2022 12:40:55::StockDamage.rpt::Thread was being aborted.
+16/09/2022 12:40:59::crptStockVarification.rpt::Thread was being aborted.
+16/09/2022 12:41:04::MinimumQuantity.rpt::Thread was being aborted.
+16/09/2022 12:41:09::ExpiryItem.rpt::Thread was being aborted.
+16/09/2022 12:42:53::PurchaseDetailed.rpt::Thread was being aborted.
+16/09/2022 12:43:43::StockRegister.rpt::Thread was being aborted.
+16/09/2022 12:43:55::PurchaseDetailed.rpt::Thread was being aborted.
+16/09/2022 12:44:29::PurchaseDetailed.rpt::Thread was being aborted.
+16/09/2022 12:44:43::PurchaseDetailed.rpt::Thread was being aborted.
+16/09/2022 12:44:47::PurchaseDetailed.rpt::Thread was being aborted.
+16/09/2022 12:44:56::PurchaseDetailed.rpt::Thread was being aborted.
+16/09/2022 12:45:48::PurchaseDetailed.rpt::Thread was being aborted.

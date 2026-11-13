@@ -1,0 +1,2 @@
+17/05/2024 05:11:19::crptPurchaseRegister.rpt::Thread was being aborted.
+17/05/2024 05:12:30::crptPurchaseRegister.rpt::Thread was being aborted.

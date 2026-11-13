@@ -1,0 +1,11 @@
+19/03/2025 11:23:33::StockRegisterConsolidateRP.rpt::Thread was being aborted.
+19/03/2025 11:25:05::StockRegisterConsolidateRP.rpt::Thread was being aborted.
+19/03/2025 11:35:07::StockRegisterConsolidateRP.rpt::Thread was being aborted.
+19/03/2025 11:35:47::StockRegisterConsolidateRP.rpt::Thread was being aborted.
+19/03/2025 11:36:55::StockRegisterConsolidateRP.rpt::Thread was being aborted.
+19/03/2025 11:45:26::StockRegisterConsolidateRP.rpt::Thread was being aborted.
+19/03/2025 11:48:02::StockRegisterConsolidateRP.rpt::Thread was being aborted.
+19/03/2025 11:52:26::StockRegisterConsolidateRP.rpt::Thread was being aborted.
+19/03/2025 11:54:20::StockRegisterConsolidateRP.rpt::Thread was being aborted.
+19/03/2025 11:55:50::StockRegisterConsolidateRP.rpt::Thread was being aborted.
+19/03/2025 11:56:40::StockRegisterConsolidateRP.rpt::Thread was being aborted.

@@ -1,0 +1,1 @@
+17/02/2026 11:20:17::SalesProfitability.rpt::Thread was being aborted.

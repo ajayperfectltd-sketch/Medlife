@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="INVENTORYREPORTS" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="INVENTORYREPORTS" msdata:IsDataSet="true" msdata:Locale="">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="PurchaseReturnPrint">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="BillNo" type="xs:long" minOccurs="0" />
+              <xs:element name="BillDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="ID_PurchaseReturn" type="xs:long" minOccurs="0" />
+              <xs:element name="Invoice" type="xs:string" minOccurs="0" />
+              <xs:element name="InvDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="TotalAmnt" type="xs:decimal" minOccurs="0" />
+              <xs:element name="DiscountPerc" type="xs:double" minOccurs="0" />
+              <xs:element name="DiscountAmt" type="xs:decimal" minOccurs="0" />
+              <xs:element name="NetAmount" type="xs:decimal" minOccurs="0" />
+              <xs:element name="InvoiceNo" type="xs:string" minOccurs="0" />
+              <xs:element name="Store" type="xs:string" minOccurs="0" />
+              <xs:element name="Address" type="xs:string" minOccurs="0" />
+              <xs:element name="Phone" type="xs:string" minOccurs="0" />
+              <xs:element name="GSTIN" type="xs:string" minOccurs="0" />
+              <xs:element name="Quantity" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ActQty" type="xs:decimal" minOccurs="0" />
+              <xs:element name="PurRate" type="xs:float" minOccurs="0" />
+              <xs:element name="Free" type="xs:decimal" minOccurs="0" />
+              <xs:element name="SalesPrice" type="xs:decimal" minOccurs="0" />
+              <xs:element name="BatchNo" type="xs:string" minOccurs="0" />
+              <xs:element name="MRP" type="xs:decimal" minOccurs="0" />
+              <xs:element name="NoofUnits" type="xs:float" minOccurs="0" />
+              <xs:element name="Item" type="xs:string" minOccurs="0" />
+              <xs:element name="HSNCode" type="xs:string" minOccurs="0" />
+              <xs:element name="ExpiryDate" type="xs:string" minOccurs="0" />
+              <xs:element name="TaxAmount" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Net" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TypeName" type="xs:string" minOccurs="0" />
+              <xs:element name="Supplier" type="xs:string" minOccurs="0" />
+              <xs:element name="SPlace" type="xs:string" minOccurs="0" />
+              <xs:element name="SPost" type="xs:string" minOccurs="0" />
+              <xs:element name="SPin" type="xs:string" minOccurs="0" />
+              <xs:element name="SPhone" type="xs:string" minOccurs="0" />
+              <xs:element name="SMobile" type="xs:string" minOccurs="0" />
+              <xs:element name="STinNo" type="xs:string" minOccurs="0" />
+              <xs:element name="RoundOff" type="xs:decimal" minOccurs="0" />
+              <xs:element name="OtherCharge" type="xs:decimal" minOccurs="0" />
+              <xs:element name="CGST" type="xs:decimal" minOccurs="0" />
+              <xs:element name="SGST" type="xs:decimal" minOccurs="0" />
+              <xs:element name="IGST" type="xs:decimal" minOccurs="0" />
+              <xs:element name="PInvoiceNo" type="xs:string" minOccurs="0" />
+              <xs:element name="PInvoiceDate" type="xs:int" minOccurs="0" />
+              <xs:element name="PurDiscAmt" type="xs:decimal" minOccurs="0" />
+              <xs:element name="PurDiscPerc" type="xs:float" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

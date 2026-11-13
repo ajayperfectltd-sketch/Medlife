@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8BFEFE24-7224-46F9-834D-496C0EFBCC65}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WebPharma.Business.Masters</RootNamespace>
+    <AssemblyName>WebPharma.Business.Masters</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BlAccountGroup.cs" />
+    <Compile Include="BlAccountHead.cs" />
+    <Compile Include="BlAccountHeadSub.cs" />
+    <Compile Include="BlAccountSubGroup.cs" />
+    <Compile Include="BlBank.cs" />
+    <Compile Include="BlBankBranch.cs" />
+    <Compile Include="BlBin.cs" />
+    <Compile Include="BlBrand.cs" />
+    <Compile Include="BlCategoryFirst.cs" />
+    <Compile Include="BlCategorySecond.cs" />
+    <Compile Include="BlCessSettings.cs" />
+    <Compile Include="BlColor.cs" />
+    <Compile Include="BlCounter.cs" />
+    <Compile Include="BlCountry.cs" />
+    <Compile Include="BlCustomer.cs" />
+    <Compile Include="BlCustomerGroup.cs" />
+    <Compile Include="BlDashBoard.cs" />
+    <Compile Include="BlDiscountSettings.cs" />
+    <Compile Include="BlEmployee.cs" />
+    <Compile Include="BlExpense.cs" />
+    <Compile Include="BlGeneric.cs" />
+    <Compile Include="BlGiftVoucher.cs" />
+    <Compile Include="BlGroupOneVoucher.cs" />
+    <Compile Include="BlHolidaySettings.cs" />
+    <Compile Include="BlIdentityProof.cs" />
+    <Compile Include="BlItemRearrange.cs" />
+    <Compile Include="BlItems.cs" />
+    <Compile Include="BlMachine.cs" />
+    <Compile Include="BlManufacturer.cs" />
+    <Compile Include="BlMonthlyProcess.cs" />
+    <Compile Include="BlPromotionType.cs" />
+    <Compile Include="BlQuotation.cs" />
+    <Compile Include="BlRack.cs" />
+    <Compile Include="BlRackAllotment.cs" />
+    <Compile Include="BlRackArrangement.cs" />
+    <Compile Include="BlReason.cs" />
+    <Compile Include="BlReminder.cs" />
+    <Compile Include="BlRentCollection.cs" />
+    <Compile Include="BlReportAccess.cs" />
+    <Compile Include="BlScheduleMaster.cs" />
+    <Compile Include="BlSettings.cs" />
+    <Compile Include="BlShift.cs" />
+    <Compile Include="BlSize.cs" />
+    <Compile Include="BlStorage.cs" />
+    <Compile Include="BlStore.cs" />
+    <Compile Include="BlSubUnit.cs" />
+    <Compile Include="BlSupplier.cs" />
+    <Compile Include="BlUnit.cs" />
+    <Compile Include="BlUserAccess.cs" />
+    <Compile Include="BlUserGroup.cs" />
+    <Compile Include="BlUsers.cs" />
+    <Compile Include="BlVoucher.cs" />
+    <Compile Include="BlVoucherGeneration.cs" />
+    <Compile Include="BlBillType.cs" />
+    <Compile Include="BlBarcodeGeneration.cs" />
+    <Compile Include="BlYearEnd.cs" />
+    <Compile Include="BlDoctor.cs" />
+    <Compile Include="BlTaxType.cs" />
+    <Compile Include="BlExpenseType.cs" />
+    <Compile Include="BlState.cs" />
+    <Compile Include="BlDistrict.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\DataAccess\WebPharma.DataAccess.Masters\WebPharma.DataAccess.Masters.csproj">
+      <Project>{6a0a055c-a918-4e5c-a311-ec4e8e442607}</Project>
+      <Name>WebPharma.DataAccess.Masters</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Interface\WebPharma.Interface.General\WebPharma.Interface.General.csproj">
+      <Project>{ea553281-a8e0-454c-bc77-cef2d777ec48}</Project>
+      <Name>WebPharma.Interface.General</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Interface\WebPharma.Interface.Masters\WebPharma.Interface.Masters.csproj">
+      <Project>{3e7378e4-6d99-4033-9d11-a07a9eb367f1}</Project>
+      <Name>WebPharma.Interface.Masters</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

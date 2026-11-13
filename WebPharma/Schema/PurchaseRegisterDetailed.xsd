@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="INVENTORYREPORTS" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="INVENTORYREPORTS" msdata:IsDataSet="true" msdata:Locale="">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="PurchaseRegisterDetailed">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="SlNo" type="xs:long" minOccurs="0" />
+              <xs:element name="Date" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="InvoiceNo" type="xs:string" minOccurs="0" />
+              <xs:element name="SuplierName" type="xs:string" minOccurs="0" />
+              <xs:element name="FK_Store" type="xs:long" minOccurs="0" />
+              <xs:element name="Store" type="xs:string" minOccurs="0" />
+              <xs:element name="FK_BillType" type="xs:long" minOccurs="0" />
+              <xs:element name="TypeName" type="xs:string" minOccurs="0" />
+              <xs:element name="TinNo" type="xs:string" minOccurs="0" />
+              <xs:element name="BillDate" type="xs:string" minOccurs="0" />
+              <xs:element name="BillNo" type="xs:long" minOccurs="0" />
+              <xs:element name="ApprovedBy" type="xs:string" minOccurs="0" />
+              <xs:element name="ApprovedOn" type="xs:string" minOccurs="0" />
+              <xs:element name="UserCode" type="xs:string" minOccurs="0" />
+              <xs:element name="EnteredOn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="ItemName" type="xs:string" minOccurs="0" />
+              <xs:element name="MRP" type="xs:decimal" minOccurs="0" />
+              <xs:element name="GrossQty" type="xs:decimal" minOccurs="0" />
+              <xs:element name="LessAdd" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TotalQty" type="xs:decimal" minOccurs="0" />
+              <xs:element name="FreeQty" type="xs:decimal" minOccurs="0" />
+              <xs:element name="NetPurAmt" type="xs:decimal" minOccurs="0" />
+              <xs:element name="PurRate" type="xs:decimal" minOccurs="0" />
+              <xs:element name="PurchaseTaxAmount" type="xs:decimal" minOccurs="0" />
+              <xs:element name="NetPurchase" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TaxPercentage" type="xs:decimal" minOccurs="0" />
+              <xs:element name="BatchNo" type="xs:string" minOccurs="0" />
+              <xs:element name="HSN" type="xs:string" minOccurs="0" />
+              <xs:element name="ExpiryDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="SellingRate" type="xs:decimal" minOccurs="0" />
+              <xs:element name="SellingTotal" type="xs:decimal" minOccurs="0" />
+              <xs:element name="SumPurTotal" type="xs:decimal" minOccurs="0" />
+              <xs:element name="HSN_SAC" type="xs:string" minOccurs="0" />
+              <xs:element name="MRPTot" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

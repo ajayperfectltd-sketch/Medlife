@@ -1,0 +1,15 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+body{ background: url(../images/LOGO.jpg) no-repeat center center fixed;}
+
+
+.wrappar{ max-width:960px; height:541PX;   margin:120px auto 0px auto; padding:0px auto 0px auto; background:url(../images/bg7.jpg) no-repeat;-webkit-box-shadow: -2px 0px 15px 3px rgba(0,0,0,0.21);
+-moz-box-shadow: -2px 0px 15px 3px rgba(0,0,0,0.21);
+box-shadow: -2px 0px 15px 3px rgba(0,0,0,0.21);border-radius: 4px 4px 4px 4px;
+-moz-border-radius: 4px 4px 4px 4px;
+-webkit-border-radius: 4px 4px 4px 4px;
+border: 0px solid #000000;}
+
+.fr_logo{width:449px; margin-top:35px;}
+

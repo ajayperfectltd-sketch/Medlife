@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="INVENTORYREPORTS" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="INVENTORYREPORTS" msdata:IsDataSet="true" msdata:Locale="">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="SalesProfitability">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="BillDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="BillNo" type="xs:long" minOccurs="0" />
+              <xs:element name="FK_Store" type="xs:long" minOccurs="0" />
+              <xs:element name="StoreName" type="xs:string" minOccurs="0" />
+              <xs:element name="PurchaseAmount" type="xs:decimal" minOccurs="0" />
+              <xs:element name="InvoiceAmount" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ProfitAmount" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ProfitPercentage" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

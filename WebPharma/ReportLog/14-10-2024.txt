@@ -1,0 +1,29 @@
+14/10/2024 11:58:35::SaleItemWise.rpt::Thread was being aborted.
+14/10/2024 12:01:42::SaleItemWise.rpt::Thread was being aborted.
+14/10/2024 12:02:23::SaleItemWise.rpt::Thread was being aborted.
+14/10/2024 13:48:49::SaleItemWise.rpt::Object reference not set to an instance of an object.
+14/10/2024 13:48:59::SaleItemWise.rpt::Object reference not set to an instance of an object.
+14/10/2024 14:20:57::SaleItemWise.rpt::Thread was being aborted.
+14/10/2024 14:22:52::SaleItemWise.rpt::Thread was being aborted.
+14/10/2024 15:02:24::SaleItemWise.rpt::Object reference not set to an instance of an object.
+14/10/2024 15:28:17::crptPurchaseRegister.rpt::Thread was being aborted.
+14/10/2024 16:20:08::crptPurchaseRegister.rpt::Thread was being aborted.
+14/10/2024 16:22:09::crptPurchaseRegister.rpt::Thread was being aborted.
+14/10/2024 16:23:31::SalesmanLiabilityRegister.rpt::Thread was being aborted.
+14/10/2024 16:24:38::crptPurchaseRegister.rpt::Thread was being aborted.
+14/10/2024 16:41:50::crptPurchaseRegister.rpt::Thread was being aborted.
+14/10/2024 16:42:22::SalesmanLiabilityRegisterPeriodWise.rpt::Thread was being aborted.
+14/10/2024 16:43:05::SalesmanLiabilityRegister.rpt::Thread was being aborted.
+14/10/2024 16:43:17::SalesmanLiabilityRegister.rpt::Thread was being aborted.
+14/10/2024 16:47:09::SalesmanLiabilityRegister.rpt::Thread was being aborted.
+14/10/2024 16:47:29::SalesmanLiabilityRegisterPeriodWise.rpt::Thread was being aborted.
+14/10/2024 17:31:09::SalesmanLiabilityRegisterPeriodWise.rpt::Object reference not set to an instance of an object.
+14/10/2024 17:45:46::GSTHSN1CodeReport.rpt::Thread was being aborted.
+14/10/2024 18:04:12::PurchaseReturnRegister.rpt::Thread was being aborted.
+14/10/2024 18:07:13::PurchaseReturnRegister.rpt::Thread was being aborted.
+14/10/2024 18:07:56::PurchaseReturnRegister.rpt::Thread was being aborted.
+14/10/2024 18:08:22::PurchaseReturnRegister.rpt::Thread was being aborted.
+14/10/2024 18:18:42::PurchaseReturnRegister.rpt::Thread was being aborted.
+14/10/2024 18:20:20::SalesmanLiabilityRegisterPeriodWise.rpt::Thread was being aborted.
+14/10/2024 18:55:00::crptPurchaseRegister.rpt::Object reference not set to an instance of an object.
+14/10/2024 19:00:29::crptPurchaseRegister.rpt::Thread was being aborted.

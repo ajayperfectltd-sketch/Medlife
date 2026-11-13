@@ -1,0 +1,26 @@
+23/12/2025 12:23:59::SalesProfitability.rpt::Database logon failed.
+23/12/2025 12:23:59::SalesProfitability.rpt::Database logon failed.
+23/12/2025 12:27:48::SalesProfitability.rpt::Database logon failed.
+23/12/2025 12:27:48::SalesProfitability.rpt::Database logon failed.
+23/12/2025 12:28:55::SalesProfitability.rpt::Database logon failed.
+23/12/2025 12:28:55::SalesProfitability.rpt::Database logon failed.
+23/12/2025 12:30:11::SalesProfitability.rpt::Database logon failed.
+23/12/2025 12:30:12::SalesProfitability.rpt::Database logon failed.
+23/12/2025 12:36:34::SalesProfitability.rpt::Database logon failed.
+23/12/2025 12:36:34::SalesProfitability.rpt::Database logon failed.
+23/12/2025 14:59:11::SalesProfitability.rpt::Object reference not set to an instance of an object.
+23/12/2025 14:59:58::SalesProfitability.rpt::Object reference not set to an instance of an object.
+23/12/2025 15:10:59::SalesProfitability.rpt::Object reference not set to an instance of an object.
+23/12/2025 15:45:29::SalesProfitability.rpt::Database logon failed.
+23/12/2025 15:45:29::SalesProfitability.rpt::Database logon failed.
+23/12/2025 15:47:52::SalesProfitability.rpt::Database logon failed.
+23/12/2025 15:47:52::SalesProfitability.rpt::Database logon failed.
+23/12/2025 15:48:11::SalesProfitability.rpt::Database logon failed.
+23/12/2025 15:48:11::SalesProfitability.rpt::Database logon failed.
+23/12/2025 15:57:59::SalesProfitability.rpt::Database logon failed.
+23/12/2025 15:57:59::SalesProfitability.rpt::Database logon failed.
+23/12/2025 16:01:28::SalesProfitability.rpt::Database logon failed.
+23/12/2025 16:01:28::SalesProfitability.rpt::Database logon failed.
+23/12/2025 16:31:02::crptPurchaseRegister.rpt::Object reference not set to an instance of an object.
+23/12/2025 17:43:32::StockRegister.rpt::Object reference not set to an instance of an object.
+23/12/2025 17:43:56::SaleItemWise.rpt::Object reference not set to an instance of an object.

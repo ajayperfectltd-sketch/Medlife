@@ -1,0 +1,14 @@
+10/03/2025 10:33:16::ExpiryItem.rpt::Database logon failed.
+10/03/2025 10:33:16::ExpiryItem.rpt::Database logon failed.
+10/03/2025 11:08:17::ExpiryItem.rpt::Database logon failed.
+10/03/2025 11:08:17::ExpiryItem.rpt::Database logon failed.
+10/03/2025 11:26:20::ExpiryItem.rpt::Database logon failed.
+10/03/2025 11:26:20::ExpiryItem.rpt::Database logon failed.
+10/03/2025 12:33:58::StockRegister.rpt::Database logon failed.
+10/03/2025 12:33:58::StockRegister.rpt::Database logon failed.
+10/03/2025 13:00:54::StockRegister.rpt::Database logon failed.
+10/03/2025 13:00:54::StockRegister.rpt::Database logon failed.
+10/03/2025 14:14:50::ExpiryItem.rpt::Thread was being aborted.
+10/03/2025 14:52:22::ExpiryItem.rpt::Object reference not set to an instance of an object.
+10/03/2025 15:25:43::ExpiryItem.rpt::Thread was being aborted.
+10/03/2025 15:27:22::ExpiryItem.rpt::Thread was being aborted.

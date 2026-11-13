@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="INVENTORYREPORTS" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="INVENTORYREPORTS" msdata:IsDataSet="true" msdata:Locale="">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="SalesmanLiabilityRegisterPeriodWise">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID_Liability" type="xs:int" minOccurs="0" />
+              <xs:element name="Store" type="xs:string" minOccurs="0" />
+              <xs:element name="TransDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Opening" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Purchase" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Material" type="xs:decimal" minOccurs="0" />
+              <xs:element name="PReturn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="PRValue" type="xs:decimal" minOccurs="0" />
+              <xs:element name="IndentFrom" type="xs:decimal" minOccurs="0" />
+              <xs:element name="IndentTo" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Sales" type="xs:decimal" minOccurs="0" />
+              <xs:element name="SalesValue" type="xs:decimal" minOccurs="0" />
+              <xs:element name="SReturn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="SRValue" type="xs:decimal" minOccurs="0" />
+              <xs:element name="IssueOut" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Damage" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Closing" type="xs:decimal" minOccurs="0" />
+              <xs:element name="PriceConTo" type="xs:decimal" minOccurs="0" />
+              <xs:element name="PriceConFrom" type="xs:decimal" minOccurs="0" />
+              <xs:element name="PurValue" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ReplaceF" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ReplaceT" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

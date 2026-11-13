@@ -1,0 +1,36 @@
+24/12/2025 09:37:26::Item.rpt::Thread was being aborted.
+24/12/2025 09:37:46::SalesProfitability.rpt::Database logon failed.
+24/12/2025 09:37:46::SalesProfitability.rpt::Database logon failed.
+24/12/2025 09:38:10::SalesRegister.rpt::Thread was being aborted.
+24/12/2025 09:51:35::SalesProfitability.rpt::Database logon failed.
+24/12/2025 09:51:35::SalesProfitability.rpt::Database logon failed.
+24/12/2025 09:53:02::SalesProfitability.rpt::Database logon failed.
+24/12/2025 09:53:03::SalesProfitability.rpt::Database logon failed.
+24/12/2025 10:25:08::DailySalesSummary.rpt::Object reference not set to an instance of an object.
+24/12/2025 10:27:14::DailySalesSummary.rpt::Object reference not set to an instance of an object.
+24/12/2025 10:27:57::DailySalesSummary.rpt::Object reference not set to an instance of an object.
+24/12/2025 10:32:53::DailySalesSummary.rpt::Object reference not set to an instance of an object.
+24/12/2025 10:33:35::DailySalesSummary.rpt::Object reference not set to an instance of an object.
+24/12/2025 10:45:56::SalesProfitability.rpt::Database logon failed.
+24/12/2025 10:45:56::SalesProfitability.rpt::Database logon failed.
+24/12/2025 10:59:55::SalesProfitability.rpt::Database logon failed.
+24/12/2025 10:59:55::SalesProfitability.rpt::Database logon failed.
+24/12/2025 11:09:41::SalesProfitability.rpt::Database logon failed.
+24/12/2025 11:09:41::SalesProfitability.rpt::Database logon failed.
+24/12/2025 11:09:51::SalesProfitability.rpt::Database logon failed.
+24/12/2025 11:09:51::SalesProfitability.rpt::Database logon failed.
+24/12/2025 11:09:59::SalesProfitability.rpt::Database logon failed.
+24/12/2025 11:09:59::SalesProfitability.rpt::Database logon failed.
+24/12/2025 11:11:20::SalesProfitability.rpt::Database logon failed.
+24/12/2025 11:11:20::SalesProfitability.rpt::Database logon failed.
+24/12/2025 11:14:26::SalesProfitability.rpt::Database logon failed.
+24/12/2025 11:14:26::SalesProfitability.rpt::Database logon failed.
+24/12/2025 11:19:21::SalesProfitability.rpt::Database logon failed.
+24/12/2025 11:19:22::SalesProfitability.rpt::Database logon failed.
+24/12/2025 11:23:55::SalesProfitability.rpt::Database logon failed.
+24/12/2025 11:23:55::SalesProfitability.rpt::Database logon failed.
+24/12/2025 11:32:06::SalesProfitability.rpt::Thread was being aborted.
+24/12/2025 11:32:28::SalesProfitability.rpt::Thread was being aborted.
+24/12/2025 11:32:40::SalesProfitability.rpt::Thread was being aborted.
+24/12/2025 11:33:03::SalesProfitability.rpt::Thread was being aborted.
+24/12/2025 18:41:23::SalesProfitability.rpt::Thread was being aborted.

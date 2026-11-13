@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="WEBPHARMA" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="WEBPHARMA" msdata:IsDataSet="true" msdata:Locale="">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="SalesReturnPrint">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="FK_Items" type="xs:long" minOccurs="0" />
+              <xs:element name="BillNo" type="xs:long" minOccurs="0" />
+              <xs:element name="SalesBillNo" type="xs:long" minOccurs="0" />
+              <xs:element name="CustomerName" type="xs:string" minOccurs="0" />
+              <xs:element name="Store" type="xs:string" minOccurs="0" />
+              <xs:element name="BillType" type="xs:string" minOccurs="0" />
+              <xs:element name="CounterName" type="xs:string" minOccurs="0" />
+              <xs:element name="ReturnDate" type="xs:string" minOccurs="0" />
+              <xs:element name="SalesDate" type="xs:string" minOccurs="0" />
+              <xs:element name="EnteredOn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="RoundOff" type="xs:decimal" minOccurs="0" />
+              <xs:element name="NetAmount" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Item" type="xs:string" minOccurs="0" />
+              <xs:element name="ExpiryDate" type="xs:string" minOccurs="0" />
+              <xs:element name="BatchNo" type="xs:string" minOccurs="0" />
+              <xs:element name="Quantity" type="xs:decimal" minOccurs="0" />
+              <xs:element name="MRP" type="xs:decimal" minOccurs="0" />
+              <xs:element name="SalesPrice" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Reason" type="xs:string" minOccurs="0" />
+              <xs:element name="TotSal" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Discount" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Credit" type="xs:boolean" minOccurs="0" />
+              <xs:element name="TaxAmt" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

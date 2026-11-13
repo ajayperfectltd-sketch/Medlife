@@ -1,0 +1,16 @@
+31/12/2025 10:33:53::SalesmanLiabilityRegister.rpt::Thread was being aborted.
+31/12/2025 10:41:05::SalesmanLiabilityRegister.rpt::Thread was being aborted.
+31/12/2025 10:50:17::SalesmanLiabilityRegisterPeriodWise.rpt::Thread was being aborted.
+31/12/2025 12:39:57::PurchaseRegisterDetailed.rpt::Object reference not set to an instance of an object.
+31/12/2025 12:44:12::PurchaseRegisterDetailed.rpt::Object reference not set to an instance of an object.
+31/12/2025 14:09:24::PurchaseRegisterDetailed.rpt::Object reference not set to an instance of an object.
+31/12/2025 14:25:49::PurchaseRegisterDetailed.rpt::Thread was being aborted.
+31/12/2025 14:36:11::PurchaseRegisterDetailed.rpt::Thread was being aborted.
+31/12/2025 14:38:37::PurchaseRegisterDetailed.rpt::Thread was being aborted.
+31/12/2025 15:24:14::PurchaseRegisterDetailed.rpt::Object reference not set to an instance of an object.
+31/12/2025 15:27:04::PurchaseRegisterDetailed.rpt::Object reference not set to an instance of an object.
+31/12/2025 15:30:07::PurchaseRegisterDetailed.rpt::Thread was being aborted.
+31/12/2025 15:59:52::PurchaseRegisterDetailed.rpt::Thread was being aborted.
+31/12/2025 16:00:06::PurchaseRegisterDetailed.rpt::Thread was being aborted.
+31/12/2025 16:06:55::PurchaseRegisterDetailed.rpt::Thread was being aborted.
+31/12/2025 16:25:58::PurchaseRegisterDetailed.rpt::Thread was being aborted.

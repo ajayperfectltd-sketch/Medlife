@@ -1,0 +1,53 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+
+
+.logo{ min-width:100%; min-height:92px; border-bottom: 1px solid  #f7f7f7;  } 
+
+.navi{ min-width:100%; min-height:auto;   } 
+
+.navi ul{ font-family:Arial, Helvetica, sans-serif; margin:0px; padding:0px; font-size:18px;   } 
+
+.navi li{ font-family:Arial, Helvetica, sans-serif; margin:0px; font-size:18px; list-style:none; line-height:26px; text-align:left;    } 
+
+
+.navi a{ font-family:Arial, Helvetica, sans-serif; width:100%; height:auto;  margin:0px; padding-bottom:2px;  font-size:13px; list-style:none; display:block; border-bottom:solid 1px #fbfbfb; color:#a4aeb3;   }
+
+
+.dash_bg {min-width:100%; background: url(../images/re.jpg); min-height:100%; float:left; }
+
+
+.top_navi{min-width:100%;  min-height:60px; float:left; background: #FFF;} 
+
+.top_navi ul{font-family:Arial, Helvetica, sans-serif; font-size:22px; }
+
+.top_navi li{font-family:Arial, Helvetica, sans-serif; font-size:15px; float:left; text-decoration:none; list-style:none; padding-left:16px; padding-top:15px; } 
+
+.grid1 {min-width:80%;min-height:200px;  float:left; background: #FFF;  margin-top:10px; border:solid 1px #dcdddf;}
+
+.grid2 {min-width:80%;min-height:200px;  float:left; background: #FFF;  margin-top:69px; border:solid 1px #dcdddf;}
+
+.bottom1{min-width:100%;min-height:18px;   background: #0a8f3a;  margin-top:0px; border:solid 1px #dcdddf;position:absolute; bottom:0; float:left; }
+
+.footer{min-width:100%;min-height:40px;  position:fixed;
+   left:0px;
+   bottom:0px; background: #1f6638; margin:0px }
+
+.footer h4{color:#FFF; float:right; font-size:13px; padding-right:13px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

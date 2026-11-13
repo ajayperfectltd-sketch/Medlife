@@ -1,0 +1,180 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebPharma", "http://localhost:58260", "{7D6B9AD8-9D66-463C-8998-93EA9BDD5A0B}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "Svn"
+		SccAuxPath = "Svn"
+		SccLocalPath = "Svn"
+		SccProvider = "SubversionScc"
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		ProjectReferences = "{fb768e4a-6cf2-451b-8905-6db5a93c9fab}|WebPharma.Business.dll;{599854BC-9915-45AA-8689-1615CF7D83FE}|WebPharma.DataAccess.dll;{EA553281-A8E0-454C-BC77-CEF2D777EC48}|WebPharma.Interface.General.dll;{3E7378E4-6D99-4033-9D11-A07A9EB367F1}|WebPharma.Interface.Masters.dll;{8bfefe24-7224-46f9-834d-496c0efbcc65}|WebPharma.Business.Masters.dll;{6A0A055C-A918-4E5C-A311-EC4E8E442607}|WebPharma.DataAccess.Masters.dll;{748a2d88-158d-4db4-bcbd-5a4f35bbefbe}|WebPharma.Business.Accounts.dll;{2DD4BF7B-62DD-4291-AF92-717ACB99E20A}|WebPharma.DataAccess.Accounts.dll;{0D4F57C9-A218-4866-861E-F81147D458B5}|WebPharma.Interface.Accounts.dll;{1c3c6efb-6b30-4d2d-9f98-f537b704b33a}|WebPharma.Interface.dll;{1ff6ec92-4d15-4b43-b229-977de97f1056}|WebPharma.Business.WebWebPharma.dll;{d96c2d86-5c70-4d12-8526-d0c0acc8dafb}|WebPharma.DataAccess.WebWebPharma.dll;{fb7652cc-198f-4dcd-857d-dd0a9f7d53ee}|WebPharma.Interface.WebWebPharma.dll;{4baf5294-2a6d-4f05-b796-704e958285a3}|WebPharma.Business.Licensing.dll;{333dd41c-61b5-434f-b033-96aeec7b6b26}|WebPharma.DataAccess.Licensing.dll;{0c4e3dac-03a0-4df4-8bfc-638f7d65e473}|WebPharma.Interface.Licensing.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_58259"
+		Debug.AspNetCompiler.PhysicalPath = "WebPharma\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58259\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_58259"
+		Release.AspNetCompiler.PhysicalPath = "WebPharma\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58259\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "WebPharma\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+	ProjectSection(SvnOrigin) = preProject
+		@Keys = Enlist,Svn.Uri
+		Enlist = Required
+		Svn.Uri = WebPharma/
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Masters", "Masters", "{044AB984-90A2-4F79-9529-B7078D7E8CA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPharma.Business.Masters", "Business\WebPharma.Business.Masters\WebPharma.Business.Masters.csproj", "{8BFEFE24-7224-46F9-834D-496C0EFBCC65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPharma.DataAccess.Masters", "DataAccess\WebPharma.DataAccess.Masters\WebPharma.DataAccess.Masters.csproj", "{6A0A055C-A918-4E5C-A311-EC4E8E442607}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPharma.Interface.Masters", "Interface\WebPharma.Interface.Masters\WebPharma.Interface.Masters.csproj", "{3E7378E4-6D99-4033-9D11-A07A9EB367F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Utitlity", "Utitlity", "{A2B3E774-46E1-4EA7-A2E4-CC2B755C1C7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPharma.Business", "Business\WebPharma.Business\WebPharma.Business.csproj", "{FB768E4A-6CF2-451B-8905-6DB5A93C9FAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPharma.DataAccess", "DataAccess\WebPharma.DataAccess\WebPharma.DataAccess.csproj", "{599854BC-9915-45AA-8689-1615CF7D83FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "General", "General", "{44B8053D-D67F-4D19-93B1-3198BED4129B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPharma.Interface.General", "Interface\WebPharma.Interface.General\WebPharma.Interface.General.csproj", "{EA553281-A8E0-454C-BC77-CEF2D777EC48}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Accounts", "Accounts", "{6A3C8F99-773A-4B31-BE17-DA6E846AD38A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPharma.Business.Accounts", "Business\WebPharma.Business.Accounts\WebPharma.Business.Accounts.csproj", "{748A2D88-158D-4DB4-BCBD-5A4F35BBEFBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPharma.DataAccess.Accounts", "DataAccess\WebPharma.DataAccess.Accounts\WebPharma.DataAccess.Accounts.csproj", "{2DD4BF7B-62DD-4291-AF92-717ACB99E20A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPharma.Interface.Accounts", "Interface\WebPharma.Interface.Accounts\WebPharma.Interface.Accounts.csproj", "{0D4F57C9-A218-4866-861E-F81147D458B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPharma.Interface", "Interface\WebPharma.Interface\WebPharma.Interface.csproj", "{1C3C6EFB-6B30-4D2D-9F98-F537B704B33A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebWebPharma", "WebWebPharma", "{833CD3D8-AAC8-4B9C-BC3F-604F9C423FC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPharma.DataAccess.WebWebPharma", "DataAccess\WebPharma.DataAccess.WebWebPharma\WebPharma.DataAccess.WebWebPharma.csproj", "{D96C2D86-5C70-4D12-8526-D0C0ACC8DAFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPharma.Business.WebWebPharma", "Business\WebPharma.Business.WebWebPharma\WebPharma.Business.WebWebPharma.csproj", "{1FF6EC92-4D15-4B43-B229-977DE97F1056}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPharma.Interface.WebWebPharma", "Interface\WebPharma.Interface.WebWebPharma\WebPharma.Interface.WebWebPharma.csproj", "{FB7652CC-198F-4DCD-857D-DD0A9F7D53EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Licensing", "Licensing", "{C637B212-3159-46C9-82DC-64629296F987}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPharma.Business.Licensing", "Business\WebPharma.Business.Licensing\WebPharma.Business.Licensing.csproj", "{4BAF5294-2A6D-4F05-B796-704E958285A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPharma.DataAccess.Licensing", "DataAccess\WebPharma.DataAccess.Licensing\WebPharma.DataAccess.Licensing.csproj", "{333DD41C-61B5-434F-B033-96AEEC7B6B26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPharma.Interface.Licensing", "Interface\WebPharma.Interface.Licensing\WebPharma.Interface.Licensing.csproj", "{0C4E3DAC-03A0-4DF4-8BFC-638F7D65E473}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D6B9AD8-9D66-463C-8998-93EA9BDD5A0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D6B9AD8-9D66-463C-8998-93EA9BDD5A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D6B9AD8-9D66-463C-8998-93EA9BDD5A0B}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D6B9AD8-9D66-463C-8998-93EA9BDD5A0B}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{8BFEFE24-7224-46F9-834D-496C0EFBCC65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BFEFE24-7224-46F9-834D-496C0EFBCC65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BFEFE24-7224-46F9-834D-496C0EFBCC65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BFEFE24-7224-46F9-834D-496C0EFBCC65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A0A055C-A918-4E5C-A311-EC4E8E442607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A0A055C-A918-4E5C-A311-EC4E8E442607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A0A055C-A918-4E5C-A311-EC4E8E442607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A0A055C-A918-4E5C-A311-EC4E8E442607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E7378E4-6D99-4033-9D11-A07A9EB367F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E7378E4-6D99-4033-9D11-A07A9EB367F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E7378E4-6D99-4033-9D11-A07A9EB367F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E7378E4-6D99-4033-9D11-A07A9EB367F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB768E4A-6CF2-451B-8905-6DB5A93C9FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB768E4A-6CF2-451B-8905-6DB5A93C9FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB768E4A-6CF2-451B-8905-6DB5A93C9FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB768E4A-6CF2-451B-8905-6DB5A93C9FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{599854BC-9915-45AA-8689-1615CF7D83FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599854BC-9915-45AA-8689-1615CF7D83FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599854BC-9915-45AA-8689-1615CF7D83FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599854BC-9915-45AA-8689-1615CF7D83FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA553281-A8E0-454C-BC77-CEF2D777EC48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA553281-A8E0-454C-BC77-CEF2D777EC48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA553281-A8E0-454C-BC77-CEF2D777EC48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA553281-A8E0-454C-BC77-CEF2D777EC48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{748A2D88-158D-4DB4-BCBD-5A4F35BBEFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748A2D88-158D-4DB4-BCBD-5A4F35BBEFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748A2D88-158D-4DB4-BCBD-5A4F35BBEFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748A2D88-158D-4DB4-BCBD-5A4F35BBEFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DD4BF7B-62DD-4291-AF92-717ACB99E20A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DD4BF7B-62DD-4291-AF92-717ACB99E20A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DD4BF7B-62DD-4291-AF92-717ACB99E20A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DD4BF7B-62DD-4291-AF92-717ACB99E20A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D4F57C9-A218-4866-861E-F81147D458B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D4F57C9-A218-4866-861E-F81147D458B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D4F57C9-A218-4866-861E-F81147D458B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D4F57C9-A218-4866-861E-F81147D458B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C3C6EFB-6B30-4D2D-9F98-F537B704B33A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C3C6EFB-6B30-4D2D-9F98-F537B704B33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C3C6EFB-6B30-4D2D-9F98-F537B704B33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C3C6EFB-6B30-4D2D-9F98-F537B704B33A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D96C2D86-5C70-4D12-8526-D0C0ACC8DAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96C2D86-5C70-4D12-8526-D0C0ACC8DAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D96C2D86-5C70-4D12-8526-D0C0ACC8DAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D96C2D86-5C70-4D12-8526-D0C0ACC8DAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FF6EC92-4D15-4B43-B229-977DE97F1056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF6EC92-4D15-4B43-B229-977DE97F1056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF6EC92-4D15-4B43-B229-977DE97F1056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF6EC92-4D15-4B43-B229-977DE97F1056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB7652CC-198F-4DCD-857D-DD0A9F7D53EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB7652CC-198F-4DCD-857D-DD0A9F7D53EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB7652CC-198F-4DCD-857D-DD0A9F7D53EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB7652CC-198F-4DCD-857D-DD0A9F7D53EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BAF5294-2A6D-4F05-B796-704E958285A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BAF5294-2A6D-4F05-B796-704E958285A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BAF5294-2A6D-4F05-B796-704E958285A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BAF5294-2A6D-4F05-B796-704E958285A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{333DD41C-61B5-434F-B033-96AEEC7B6B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{333DD41C-61B5-434F-B033-96AEEC7B6B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{333DD41C-61B5-434F-B033-96AEEC7B6B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{333DD41C-61B5-434F-B033-96AEEC7B6B26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C4E3DAC-03A0-4DF4-8BFC-638F7D65E473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C4E3DAC-03A0-4DF4-8BFC-638F7D65E473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C4E3DAC-03A0-4DF4-8BFC-638F7D65E473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C4E3DAC-03A0-4DF4-8BFC-638F7D65E473}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8BFEFE24-7224-46F9-834D-496C0EFBCC65} = {044AB984-90A2-4F79-9529-B7078D7E8CA5}
+		{6A0A055C-A918-4E5C-A311-EC4E8E442607} = {044AB984-90A2-4F79-9529-B7078D7E8CA5}
+		{3E7378E4-6D99-4033-9D11-A07A9EB367F1} = {044AB984-90A2-4F79-9529-B7078D7E8CA5}
+		{FB768E4A-6CF2-451B-8905-6DB5A93C9FAB} = {A2B3E774-46E1-4EA7-A2E4-CC2B755C1C7F}
+		{599854BC-9915-45AA-8689-1615CF7D83FE} = {A2B3E774-46E1-4EA7-A2E4-CC2B755C1C7F}
+		{1C3C6EFB-6B30-4D2D-9F98-F537B704B33A} = {A2B3E774-46E1-4EA7-A2E4-CC2B755C1C7F}
+		{EA553281-A8E0-454C-BC77-CEF2D777EC48} = {44B8053D-D67F-4D19-93B1-3198BED4129B}
+		{748A2D88-158D-4DB4-BCBD-5A4F35BBEFBE} = {6A3C8F99-773A-4B31-BE17-DA6E846AD38A}
+		{2DD4BF7B-62DD-4291-AF92-717ACB99E20A} = {6A3C8F99-773A-4B31-BE17-DA6E846AD38A}
+		{0D4F57C9-A218-4866-861E-F81147D458B5} = {6A3C8F99-773A-4B31-BE17-DA6E846AD38A}
+		{D96C2D86-5C70-4D12-8526-D0C0ACC8DAFB} = {833CD3D8-AAC8-4B9C-BC3F-604F9C423FC6}
+		{1FF6EC92-4D15-4B43-B229-977DE97F1056} = {833CD3D8-AAC8-4B9C-BC3F-604F9C423FC6}
+		{FB7652CC-198F-4DCD-857D-DD0A9F7D53EE} = {833CD3D8-AAC8-4B9C-BC3F-604F9C423FC6}
+		{4BAF5294-2A6D-4F05-B796-704E958285A3} = {C637B212-3159-46C9-82DC-64629296F987}
+		{333DD41C-61B5-434F-B033-96AEEC7B6B26} = {C637B212-3159-46C9-82DC-64629296F987}
+		{0C4E3DAC-03A0-4DF4-8BFC-638F7D65E473} = {C637B212-3159-46C9-82DC-64629296F987}
+	EndGlobalSection
+EndGlobal

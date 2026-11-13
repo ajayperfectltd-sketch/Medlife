@@ -1,0 +1,9 @@
+26/12/2025 11:11:58::SalesProfitability.rpt::Object reference not set to an instance of an object.
+26/12/2025 11:16:40::SalesProfitability.rpt::Object reference not set to an instance of an object.
+26/12/2025 11:16:47::SalesProfitability.rpt::Object reference not set to an instance of an object.
+26/12/2025 11:16:48::SalesProfitability.rpt::Object reference not set to an instance of an object.
+26/12/2025 11:16:48::SalesProfitability.rpt::Object reference not set to an instance of an object.
+26/12/2025 11:16:49::SalesProfitability.rpt::Object reference not set to an instance of an object.
+26/12/2025 11:17:02::SalesProfitability.rpt::Object reference not set to an instance of an object.
+26/12/2025 11:53:07::SalesProfitability.rpt::Thread was being aborted.
+26/12/2025 14:43:19::SalesProfitability.rpt::Thread was being aborted.

@@ -1,0 +1,10 @@
+12/10/2024 12:31:58::SaleItemWise.rpt::Thread was being aborted.
+12/10/2024 12:34:34::SaleItemWise.rpt::Thread was being aborted.
+12/10/2024 12:43:54::SaleItemWise.rpt::Thread was being aborted.
+12/10/2024 12:44:24::SaleItemWise.rpt::Thread was being aborted.
+12/10/2024 14:49:50::SaleItemWise.rpt::Thread was being aborted.
+12/10/2024 14:50:36::SaleItemWise.rpt::Thread was being aborted.
+12/10/2024 18:03:01::SaleItemWise.rpt::Object reference not set to an instance of an object.
+12/10/2024 18:05:33::SaleItemWise.rpt::Thread was being aborted.
+12/10/2024 18:18:54::SaleItemWise.rpt::Thread was being aborted.
+12/10/2024 18:31:06::SaleItemWise.rpt::Thread was being aborted.

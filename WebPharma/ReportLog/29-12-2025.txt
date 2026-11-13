@@ -1,0 +1,58 @@
+29/12/2025 09:31:13::SalesProfitability.rpt::Thread was being aborted.
+29/12/2025 10:24:43::SalesProfitability.rpt::Object reference not set to an instance of an object.
+29/12/2025 10:24:52::SalesProfitability.rpt::Object reference not set to an instance of an object.
+29/12/2025 10:39:41::SalesProfitability.rpt::Object reference not set to an instance of an object.
+29/12/2025 10:39:46::SalesProfitability.rpt::Object reference not set to an instance of an object.
+29/12/2025 10:39:56::SalesProfitability.rpt::Object reference not set to an instance of an object.
+29/12/2025 10:42:51::SalesProfitability.rpt::Object reference not set to an instance of an object.
+29/12/2025 10:42:52::SalesProfitability.rpt::Object reference not set to an instance of an object.
+29/12/2025 10:42:52::SalesProfitability.rpt::Object reference not set to an instance of an object.
+29/12/2025 10:42:52::SalesProfitability.rpt::Object reference not set to an instance of an object.
+29/12/2025 10:42:53::SalesProfitability.rpt::Object reference not set to an instance of an object.
+29/12/2025 10:42:54::SalesProfitability.rpt::Object reference not set to an instance of an object.
+29/12/2025 10:51:27::SalesProfitability.rpt::Thread was being aborted.
+29/12/2025 10:51:43::SalesProfitability.rpt::Thread was being aborted.
+29/12/2025 10:51:43::SalesProfitability.rpt::Thread was being aborted.
+29/12/2025 10:51:44::SalesProfitability.rpt::Thread was being aborted.
+29/12/2025 10:59:45::SalesProfitability.rpt::Thread was being aborted.
+29/12/2025 11:23:16::SalesProfitability.rpt::Object reference not set to an instance of an object.
+29/12/2025 11:23:34::SalesProfitability.rpt::Object reference not set to an instance of an object.
+29/12/2025 11:26:43::SalesProfitability.rpt::Object reference not set to an instance of an object.
+29/12/2025 11:31:28::SalesProfitability.rpt::Object reference not set to an instance of an object.
+29/12/2025 11:31:54::SalesProfitability.rpt::Object reference not set to an instance of an object.
+29/12/2025 11:36:37::SalesProfitability.rpt::Thread was being aborted.
+29/12/2025 11:40:14::SalesProfitability.rpt::Thread was being aborted.
+29/12/2025 11:41:12::SalesProfitability.rpt::Thread was being aborted.
+29/12/2025 11:41:45::SalesProfitability.rpt::Thread was being aborted.
+29/12/2025 11:47:40::SalesProfitability.rpt::Thread was being aborted.
+29/12/2025 11:48:37::SalesProfitability.rpt::Thread was being aborted.
+29/12/2025 11:49:37::SalesProfitability.rpt::Thread was being aborted.
+29/12/2025 11:55:20::SalesProfitability.rpt::Thread was being aborted.
+29/12/2025 11:58:23::SalesProfitability.rpt::Thread was being aborted.
+29/12/2025 12:30:05::SalesProfitability.rpt::Object reference not set to an instance of an object.
+29/12/2025 12:30:10::SalesProfitability.rpt::Object reference not set to an instance of an object.
+29/12/2025 12:30:16::SalesProfitability.rpt::Object reference not set to an instance of an object.
+29/12/2025 12:37:47::SalesProfitability.rpt::Thread was being aborted.
+29/12/2025 12:39:01::SalesProfitability.rpt::Thread was being aborted.
+29/12/2025 12:40:10::SalesProfitability.rpt::Thread was being aborted.
+29/12/2025 12:40:36::SalesProfitability.rpt::Thread was being aborted.
+29/12/2025 12:41:25::SalesProfitability.rpt::Thread was being aborted.
+29/12/2025 12:44:16::SalesProfitability.rpt::Thread was being aborted.
+29/12/2025 13:51:04::SalesProfitability.rpt::Object reference not set to an instance of an object.
+29/12/2025 13:56:12::SalesProfitability.rpt::Object reference not set to an instance of an object.
+29/12/2025 13:59:28::SalesProfitability.rpt::Thread was being aborted.
+29/12/2025 14:01:31::SalesProfitability.rpt::Thread was being aborted.
+29/12/2025 14:02:05::SalesProfitability.rpt::Thread was being aborted.
+29/12/2025 14:02:41::SalesProfitability.rpt::Thread was being aborted.
+29/12/2025 14:09:56::SalesProfitability.rpt::Thread was being aborted.
+29/12/2025 14:10:46::SalesProfitability.rpt::Thread was being aborted.
+29/12/2025 14:11:13::SalesProfitability.rpt::Thread was being aborted.
+29/12/2025 14:12:00::SalesProfitability.rpt::Thread was being aborted.
+29/12/2025 14:14:45::SalesProfitability.rpt::Thread was being aborted.
+29/12/2025 14:58:52::SalesProfitability.rpt::Object reference not set to an instance of an object.
+29/12/2025 15:00:22::SalesProfitability.rpt::Object reference not set to an instance of an object.
+29/12/2025 15:00:22::SalesProfitability.rpt::Object reference not set to an instance of an object.
+29/12/2025 15:00:23::SalesProfitability.rpt::Object reference not set to an instance of an object.
+29/12/2025 15:00:23::SalesProfitability.rpt::Object reference not set to an instance of an object.
+29/12/2025 15:00:24::SalesProfitability.rpt::Object reference not set to an instance of an object.
+29/12/2025 15:00:24::SalesProfitability.rpt::Object reference not set to an instance of an object.

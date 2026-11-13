@@ -1,0 +1,17 @@
+07/07/2025 12:51:23::OpeningStock.rpt::Thread was being aborted.
+07/07/2025 12:51:45::OpeningStock.rpt::Thread was being aborted.
+07/07/2025 13:03:14::OpeningStock.rpt::Thread was being aborted.
+07/07/2025 13:41:27::OpeningStock.rpt::Object reference not set to an instance of an object.
+07/07/2025 13:43:41::OpeningStock.rpt::Object reference not set to an instance of an object.
+07/07/2025 13:47:39::OpeningStock.rpt::Object reference not set to an instance of an object.
+07/07/2025 15:49:48::OpeningStock.rpt::Object reference not set to an instance of an object.
+07/07/2025 15:51:27::OpeningStock.rpt::Object reference not set to an instance of an object.
+07/07/2025 15:55:37::OpeningStock.rpt::Thread was being aborted.
+07/07/2025 15:59:29::OpeningStock.rpt::Thread was being aborted.
+07/07/2025 16:02:09::OpeningStock.rpt::Thread was being aborted.
+07/07/2025 17:01:36::OpeningStock.rpt::Object reference not set to an instance of an object.
+07/07/2025 17:36:37::OpeningStock.rpt::Object reference not set to an instance of an object.
+07/07/2025 17:36:37::OpeningStock.rpt::Object reference not set to an instance of an object.
+07/07/2025 17:40:35::OpeningStock.rpt::Object reference not set to an instance of an object.
+07/07/2025 18:02:41::OpeningStock.rpt::Thread was being aborted.
+07/07/2025 20:23:56::OpeningStock.rpt::Thread was being aborted.

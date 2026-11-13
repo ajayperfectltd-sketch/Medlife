@@ -1,0 +1,1 @@
+26/05/2026 12:09:47::crptStockVarification.rpt::Object reference not set to an instance of an object.

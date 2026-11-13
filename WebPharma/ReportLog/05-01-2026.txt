@@ -1,0 +1,13 @@
+05/01/2026 10:46:07::PurchaseRegisterDetailed.rpt::Object reference not set to an instance of an object.
+05/01/2026 10:46:11::PurchaseRegisterDetailed.rpt::Object reference not set to an instance of an object.
+05/01/2026 10:46:34::PurchaseRegisterDetailed.rpt::Object reference not set to an instance of an object.
+05/01/2026 10:48:36::PurchaseRegisterDetailed.rpt::Thread was being aborted.
+05/01/2026 10:48:53::PurchaseRegisterDetailed.rpt::Thread was being aborted.
+05/01/2026 11:38:35::PurchaseRegisterDetailed.rpt::Object reference not set to an instance of an object.
+05/01/2026 11:39:26::PurchaseRegisterDetailed.rpt::Object reference not set to an instance of an object.
+05/01/2026 11:39:32::PurchaseRegisterDetailed.rpt::Object reference not set to an instance of an object.
+05/01/2026 11:39:36::PurchaseRegisterDetailed.rpt::Object reference not set to an instance of an object.
+05/01/2026 11:58:46::PurchaseRegisterDetailed.rpt::Thread was being aborted.
+05/01/2026 12:07:16::PurchaseRegisterDetailed.rpt::Thread was being aborted.
+05/01/2026 12:16:28::PurchaseRegisterDetailed.rpt::Thread was being aborted.
+05/01/2026 13:48:24::PurchaseRegisterDetailed.rpt::Object reference not set to an instance of an object.

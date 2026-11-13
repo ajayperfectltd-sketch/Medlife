@@ -1,0 +1,6 @@
+05/11/2024 14:55:05::PurchaseReturnRegister.rpt::Thread was being aborted.
+05/11/2024 15:04:36::PurchaseReturnRegister.rpt::Thread was being aborted.
+05/11/2024 15:11:32::PurchaseReturnRegister.rpt::Thread was being aborted.
+05/11/2024 15:15:50::PurchaseReturnRegister.rpt::Thread was being aborted.
+05/11/2024 15:17:05::PurchaseReturnRegister.rpt::Thread was being aborted.
+05/11/2024 15:48:08::StockRegister.rpt::Thread was being aborted.

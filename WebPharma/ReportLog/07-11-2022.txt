@@ -1,0 +1,6 @@
+07/11/2022 10:17:06::SalesRegister.rpt::Thread was being aborted.
+07/11/2022 10:17:25::SalesRegister.rpt::Thread was being aborted.
+07/11/2022 10:18:09::SalesRegister.rpt::Thread was being aborted.
+07/11/2022 10:18:18::SalesRegister.rpt::Thread was being aborted.
+07/11/2022 10:18:27::SalesRegister.rpt::Thread was being aborted.
+07/11/2022 10:18:43::SalesRegister.rpt::Thread was being aborted.

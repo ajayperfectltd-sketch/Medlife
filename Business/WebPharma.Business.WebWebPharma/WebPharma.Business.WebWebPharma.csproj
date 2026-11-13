@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1FF6EC92-4D15-4B43-B229-977DE97F1056}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WebPharma.Business.WebPharma</RootNamespace>
+    <AssemblyName>WebPharma.Business.WebPharma</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BlCloudLink.cs" />
+    <Compile Include="BlDayBegin.cs" />
+    <Compile Include="BlDayEnd.cs" />
+    <Compile Include="BlGoodsIssue.cs" />
+    <Compile Include="BlIndent.cs" />
+    <Compile Include="BlInventoryReport.cs" />
+    <Compile Include="BlItemEnquiry.cs" />
+    <Compile Include="BlPriceCorrection.cs" />
+    <Compile Include="BlQuotationComparison.cs" />
+    <Compile Include="BlReplace.cs" />
+    <Compile Include="BlSales.cs" />
+    <Compile Include="BlWebPharmaReport.cs" />
+    <Compile Include="BlIssueOut.cs" />
+    <Compile Include="BlMaterialReciept.cs" />
+    <Compile Include="BlMultipleStockCorrection.cs" />
+    <Compile Include="BlOpeningStock.cs" />
+    <Compile Include="BlPromotionSettings.cs" />
+    <Compile Include="BlPurchase.cs" />
+    <Compile Include="BlPurchaseApprove.cs" />
+    <Compile Include="BlPurchaseOrder.cs" />
+    <Compile Include="BlPurchaseReturn.cs" />
+    <Compile Include="BlRePayment.cs" />
+    <Compile Include="BlSaleReturn.cs" />
+    <Compile Include="BlStock.cs" />
+    <Compile Include="BlltemConversion.cs" />
+    <Compile Include="BlStockAdjustment.cs" />
+    <Compile Include="BlStockCorrection.cs" />
+    <Compile Include="BlPriceConversion.cs" />
+    <Compile Include="BlSchedule.cs" />
+    <Compile Include="BlIndentRequest.cs" />
+    <Compile Include="BlIndentIssue.cs" />
+    <Compile Include="Database.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\DataAccess\WebPharma.DataAccess.WebWebPharma\WebPharma.DataAccess.WebWebPharma.csproj">
+      <Project>{d96c2d86-5c70-4d12-8526-d0c0acc8dafb}</Project>
+      <Name>WebPharma.DataAccess.WebPharma</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Interface\WebPharma.Interface.General\WebPharma.Interface.General.csproj">
+      <Project>{ea553281-a8e0-454c-bc77-cef2d777ec48}</Project>
+      <Name>WebPharma.Interface.General</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Interface\WebPharma.Interface.WebWebPharma\WebPharma.Interface.WebWebPharma.csproj">
+      <Project>{fb7652cc-198f-4dcd-857d-dd0a9f7d53ee}</Project>
+      <Name>WebPharma.Interface.WebPharma</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

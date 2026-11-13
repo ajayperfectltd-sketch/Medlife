@@ -1,0 +1,11 @@
+22/12/2025 11:13:24::SalesRegister.rpt::Thread was being aborted.
+22/12/2025 11:22:21::SaleItemWise.rpt::Thread was being aborted.
+22/12/2025 11:58:57::SalesRegister.rpt::Object reference not set to an instance of an object.
+22/12/2025 13:58:58::SchedulewiseSales.rpt::Object reference not set to an instance of an object.
+22/12/2025 14:18:53::SchedulewiseSales.rpt::Object reference not set to an instance of an object.
+22/12/2025 14:25:54::DailySalesSummary.rpt::Thread was being aborted.
+22/12/2025 14:27:05::SalesProfitability.rpt::Database logon failed.
+22/12/2025 14:27:05::SalesProfitability.rpt::Database logon failed.
+22/12/2025 15:28:53::SalesProfitability.rpt::Object reference not set to an instance of an object.
+22/12/2025 15:29:16::SalesProfitability.rpt::Object reference not set to an instance of an object.
+22/12/2025 15:36:56::SchedulewiseSales.rpt::Object reference not set to an instance of an object.

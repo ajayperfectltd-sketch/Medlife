@@ -1,0 +1,49 @@
+30/12/2025 10:55:53::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 11:02:58::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 11:03:55::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 11:05:13::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 11:20:36::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 12:24:04::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 12:24:24::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 12:24:35::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 12:34:31::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 12:43:56::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 13:46:04::crptStockVarification.rpt::Object reference not set to an instance of an object.
+30/12/2025 13:46:13::crptStockVarification.rpt::Object reference not set to an instance of an object.
+30/12/2025 13:49:23::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 14:04:52::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 14:21:19::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 14:43:08::crptStockVarification.rpt::Object reference not set to an instance of an object.
+30/12/2025 14:47:19::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 14:50:41::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 14:55:18::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 15:35:15::crptStockVarification.rpt::Object reference not set to an instance of an object.
+30/12/2025 15:35:22::crptStockVarification.rpt::Object reference not set to an instance of an object.
+30/12/2025 15:35:22::crptStockVarification.rpt::Object reference not set to an instance of an object.
+30/12/2025 15:35:23::crptStockVarification.rpt::Object reference not set to an instance of an object.
+30/12/2025 15:35:23::crptStockVarification.rpt::Object reference not set to an instance of an object.
+30/12/2025 15:35:24::crptStockVarification.rpt::Object reference not set to an instance of an object.
+30/12/2025 15:35:24::crptStockVarification.rpt::Object reference not set to an instance of an object.
+30/12/2025 15:35:25::crptStockVarification.rpt::Object reference not set to an instance of an object.
+30/12/2025 15:37:58::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 15:46:02::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 15:47:35::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 15:48:13::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 15:48:24::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 15:53:06::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 16:00:03::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 16:02:55::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 16:03:53::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 16:08:41::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 16:09:17::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 16:11:04::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 16:11:17::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 16:11:32::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 16:11:48::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 16:12:32::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 16:18:32::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 16:18:39::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 16:19:20::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 16:20:09::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 16:21:08::crptStockVarification.rpt::Thread was being aborted.
+30/12/2025 16:22:46::crptStockVarification.rpt::Thread was being aborted.

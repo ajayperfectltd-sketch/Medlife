@@ -1,0 +1,2 @@
+28/10/2022 16:37:22::StockRegister.rpt::Thread was being aborted.
+28/10/2022 16:55:27::StockRegister.rpt::Thread was being aborted.

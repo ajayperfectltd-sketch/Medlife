@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6A0A055C-A918-4E5C-A311-EC4E8E442607}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WebPharma.DataAccess.Masters</RootNamespace>
+    <AssemblyName>WebPharma.DataAccess.Masters</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="App_Wcb__l5x_ul432">
+      <HintPath>..\..\WebPharma\Bin\App_Wcb__l5x_ul432.dll</HintPath>
+    </Reference>
+    <Reference Include="App_Wcf__blec4_1">
+      <HintPath>..\..\WebPharma\Bin\App_Wcf__blec4_1.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DalDistrict.cs" />
+    <Compile Include="DalGeneric.cs" />
+    <Compile Include="DalItemRearrange.cs" />
+    <Compile Include="DalMonthlyProcess.cs" />
+    <Compile Include="DalQuotation.cs" />
+    <Compile Include="DalScheduleMaster.cs" />
+    <Compile Include="DalState.cs" />
+    <Compile Include="DalExpenseType.cs" />
+    <Compile Include="DalSubUnit.cs" />
+    <Compile Include="DalTaxType.cs" />
+    <Compile Include="DalBarcodeGeneration.cs" />
+    <Compile Include="DalBank.cs" />
+    <Compile Include="DalBankBranch.cs" />
+    <Compile Include="DalBillType.cs" />
+    <Compile Include="DalAccountGroup.cs" />
+    <Compile Include="DalAccountHead.cs" />
+    <Compile Include="DalAccountHeadSub.cs" />
+    <Compile Include="DalAccountSubGroup.cs" />
+    <Compile Include="DalBin.cs" />
+    <Compile Include="DalBrand.cs" />
+    <Compile Include="DalCategoryFirst.cs" />
+    <Compile Include="DalCategorySecond.cs" />
+    <Compile Include="DalCessSettings.cs" />
+    <Compile Include="DalColor.cs" />
+    <Compile Include="DalCounter.cs" />
+    <Compile Include="DalCountry.cs" />
+    <Compile Include="DalCustomer.cs" />
+    <Compile Include="DalCustomerGroup.cs" />
+    <Compile Include="DalDashBoard.cs" />
+    <Compile Include="DalDiscountSettings.cs" />
+    <Compile Include="DalDoctor.cs" />
+    <Compile Include="DalEmployee.cs" />
+    <Compile Include="DalExpense.cs" />
+    <Compile Include="DalGiftVoucher.cs" />
+    <Compile Include="DalGroupOneVoucher.cs" />
+    <Compile Include="DalHolidaySettings.cs" />
+    <Compile Include="DalIdentityProof.cs" />
+    <Compile Include="DalItems.cs" />
+    <Compile Include="DalMachine.cs" />
+    <Compile Include="DalManufacturer.cs" />
+    <Compile Include="DalPromotionType.cs" />
+    <Compile Include="DalRack.cs" />
+    <Compile Include="DalRackAllotment.cs" />
+    <Compile Include="DalRackArrangement.cs" />
+    <Compile Include="DalReason.cs" />
+    <Compile Include="DalReminder.cs" />
+    <Compile Include="DalRentCollection.cs" />
+    <Compile Include="DalReportAcess.cs" />
+    <Compile Include="DalSettings.cs" />
+    <Compile Include="DalShift.cs" />
+    <Compile Include="DalSize.cs" />
+    <Compile Include="DalStorage.cs" />
+    <Compile Include="DalStore.cs" />
+    <Compile Include="DalSupplier.cs" />
+    <Compile Include="DalUnit.cs" />
+    <Compile Include="DalUserAccess.cs" />
+    <Compile Include="DalUserGroup.cs" />
+    <Compile Include="DalUsers.cs" />
+    <Compile Include="DalVoucher.cs" />
+    <Compile Include="DalVoucherGeneration.cs" />
+    <Compile Include="DalYearEnd.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Interface\WebPharma.Interface.General\WebPharma.Interface.General.csproj">
+      <Project>{ea553281-a8e0-454c-bc77-cef2d777ec48}</Project>
+      <Name>WebPharma.Interface.General</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Interface\WebPharma.Interface.Masters\WebPharma.Interface.Masters.csproj">
+      <Project>{3e7378e4-6d99-4033-9d11-a07a9eb367f1}</Project>
+      <Name>WebPharma.Interface.Masters</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

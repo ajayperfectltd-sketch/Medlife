@@ -1,0 +1,269 @@
+﻿  .pricing-box:not(:first-child) {
+            padding-left: 7px;
+        }
+
+        .pricing-box:not(:last-child) {
+            padding-right: 7px;
+        }
+
+        .pricing-box .price {
+            font-size: 22px;
+            line-height: 20px;
+            height: 28px;
+            text-align: center;
+            color: #555;
+        }
+
+            .pricing-box .price small {
+                font-size: 22px;
+            }
+
+        .pricing-box .btn {
+            font-size: 16px;
+        }
+
+        .pricing-box .widget-header {
+            text-align: center;
+            padding-left: 0;
+        }
+
+        .widget-color-dark {
+            border-color: #5a5a5a;
+        }
+
+        .widget-box {
+            padding: 0;
+            box-shadow: none;
+            margin: 3px 0;
+            border: 1px solid #CCC;
+            border-top-color: rgb(204, 204, 204);
+            border-right-color: rgb(204, 204, 204);
+            border-bottom-color: rgb(204, 204, 204);
+            border-left-color: rgb(204, 204, 204);
+        }
+
+            .widget-box[class*="widget-color-"] > .widget-header {
+                color: #FFF;
+                filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+            }
+
+            .widget-box[class*="widget-color-"] > .widget-headerHor {
+                color: #FFF;
+                filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+            }
+
+        .pricing-box .widget-header {
+            text-align: center;
+            padding-left: 0;
+        }
+
+        .pricing-box .widget-headerHor {
+            text-align: center;
+            padding-left: 0;
+        }
+
+        .widget-color-dark > .widget-header {
+            border-color: #666;
+            background: #6d9b6f;
+        }
+
+        .widget-color-dark > .widget-headerHor {
+            border-color: #666;
+            background: #d5652e;
+        }
+
+        .widget-header {
+            background-position: 0% 0%;
+            -webkit-box-sizing: content-box;
+            -moz-box-sizing: content-box;
+            box-sizing: content-box;
+            position: relative;
+            min-height: 38px;
+            color: #669FC7;
+            border-bottom: 1px solid rgb(221, 221, 221);
+            padding-left: 12px;
+            background-image: linear-gradient(to bottom,#FFF 0,#EEE 100%);
+            background-color: #f7f7f7;
+            background-repeat: repeat-x;
+            background-attachment: scroll;
+        }
+
+        .widget-headerHor {
+            background-position: 0% 0%;
+            -webkit-box-sizing: content-box;
+            -moz-box-sizing: content-box;
+            box-sizing: content-box;
+            position: relative;
+            min-height: 38px;
+            color: #669FC7;
+            border-bottom: 1px solid rgb(221, 221, 221);
+            padding-left: 12px;
+            background-image: linear-gradient(to bottom,#FFF 0,#EEE 100%);
+            background-color: #f7f7f7;
+            background-repeat: repeat-x;
+            background-attachment: scroll;
+        }
+
+        .widget-header > .widget-title {
+            line-height: 36px;
+            padding: 0;
+            margin: 0;
+            display: inline;
+        }
+
+        .widget-headerHor > .widget-title {
+            line-height: 36px;
+            padding: 0;
+            margin: 0;
+            display: inline;
+        }
+
+        h5.bigger {
+            font-size: 16px;
+        }
+
+        .lighter {
+            font-weight: lighter;
+        }
+
+        .widget-body {
+            background-color: #FFF;
+        }
+
+        .list-inline > li > .ace-icon:first-child, .list-unstyled > li > .ace-icon:first-child {
+            width: 18px;
+            text-align: center;
+        }
+
+        .green {
+            color: #69AA46 !important;
+        }
+
+        .ace-icon {
+            text-align: center;
+        }
+
+        .fa {
+            display: inline-block;
+            font: normal normal normal 14px/1 FontAwesome;
+            font-size: 14px;
+            font-size: inherit;
+            text-rendering: auto;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        .fa-2x {
+            font-size: 17px;
+        }
+
+        .pricing-box .price {
+            font-size: 22px;
+            line-height: 20px;
+            height: 28px;
+            text-align: center;
+            color: #555;
+        }
+
+        .pricing-box .btn {
+            font-size: 16px;
+        }
+
+        .btn-inverse, .btn-inverse.focus, .btn-inverse:focus {
+            background-color: #69949d !important;
+            border-color: #69949d;
+        }
+
+        element {
+        }
+
+        *, ::after, ::before {
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+
+        .pricing-box .btn {
+            font-size: 16px;
+        }
+
+        .btn {
+            color: #FFF !important;
+            text-shadow: 0 -1px 0 rgba(0,0,0,.25);
+        }
+
+        btn-inverse, .btn-inverse.focus, .btn-inverse:focus {
+            background-color: #69949d !important;
+            border-color: #69949d;
+        }
+
+        .impExp {
+            font-size: 14px;
+        }
+
+        .btn-successImport {
+            color: #fff;
+            background-color: #6d9b6f;
+            border-color: #6d9b6f;
+            border-radius: 9px;
+            cursor: pointer;
+        }
+
+        .btn-successExport {
+            color: #fff;
+            background-color: #d5652e;
+            border-color: #d5652e;
+            border-radius: 9px;
+            cursor: pointer;
+        }
+
+        .lastImport {
+            padding-left: 2px;
+            margin-left: 20px;
+            font-size: 15px;
+            margin-top: 10px;
+        }
+
+        .GridSearchWithoutAlgnImport th {
+            background-color: #6d9b6f;
+            padding: 7px;
+            color: rgb(255, 255, 255);
+            border: 1px solid #bed7f5;
+            font-size: 13px;
+            font-weight: 600;
+        }
+
+        .th {
+            text-align: left;
+        }
+
+        *, ::after, ::before {
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+
+        .PopupHeaderExport {
+            background-color: #0F3A5D;
+            width: 799px;
+            height: 28px;
+            border-radius: 2px;
+        }
+        .PopupHeaderImport{
+            background-color: #0F3A5D;
+            width: 998px;
+            height: 26px;
+            border-radius: 2px;
+        }
+        .center-container {
+            position: relative;
+            top: 5%;
+            left: 1%;
+            transform: translate(-20%, -1%);
+            }
+        .center-containerExport {
+            position: absolute;
+            top: 5%;
+            left: 1%;
+            transform: translate(-20%, -1%);
+            }

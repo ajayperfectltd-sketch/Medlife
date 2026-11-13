@@ -1,0 +1,2 @@
+18/03/2025 14:48:26::StockRegister.rpt::Thread was being aborted.
+18/03/2025 14:50:33::StockRegisterConsolidateRP.rpt::Thread was being aborted.
